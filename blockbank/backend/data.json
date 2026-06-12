@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Pham Thuy Hien",
+      "password_hash": "$2a$10$5cpHV8uyllAMUk1HEpTNuO0GfDbp5I5/DFDmP4OIpK/Ehvo855y9C",
+      "full_name": "Phạm Thúy Hiền",
+      "phone": "0372685380",
+      "role": "admin",
+      "created_at": "2026-06-12T13:19:31.336Z"
+    }
+  ],
+  "accounts": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "account_no": "BB-0001-2026",
+      "balance": 0,
+      "status": "active",
+      "created_at": "2026-06-12T13:19:31.336Z"
+    }
+  ],
+  "transactions": [],
+  "ledger_blocks": [],
+  "counters": {
+    "user": 1,
+    "account": 1,
+    "transaction": 0,
+    "block": 0
+  }
+}
